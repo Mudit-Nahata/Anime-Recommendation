@@ -2,6 +2,7 @@
 
 # *The Dataset*
 
+https://www.kaggle.com/CooperUnion/anime-recommendations-database
 This repository was posted on Kaggle by CooperUnion in 2017 with a goal to Build a better anime recommendation system based only on user viewing history. This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings. It has two CSV files, anime.csv and rating.csv.
 
 # *Features*
